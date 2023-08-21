@@ -13,4 +13,4 @@ Instruction how to run:
 - Open project and run commands: cd website_api dotnet run. (for example swagger)
 - Enjoy my api!
 
-My API is a prototype for a website that acts as an online store. FrontEnd for this website is also created but it was created by more people so I have no right to post it here, we used React technology and HTML and CSS elements. I created an API in C# (.NET) technology that handles database queries and implements the BackEnd. 
+My API is a prototype for a website that acts like an online store. FrontEnd for this website is also done but it was created by more people so I have no right to post it here, we used React technology and HTML and CSS elements. I created an API in C# (.NET) technology that handles database queries and implements the BackEnd. 
